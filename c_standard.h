@@ -1,5 +1,6 @@
 /*
 * description：本文件是c语言规范的例子
+* version: 1.1
 * Change Logs:
 * Date           Author       Notes
 * 2019-01-18     kingleo      create
